@@ -6,7 +6,9 @@ Smart contract for vaccine supply supervision system.
 
 
 Solidity
+
 Ethereum
+
 Metamask Account
 
 ![image](https://github.com/Sujaidhayalan/Vaccine_Supply_System/assets/142408816/8414bcbd-b7f8-4bb5-8855-e5daa2797c2c)
